@@ -1,0 +1,12 @@
+
+
+# curl -X POST "http://localhost:8000/classify" \
+#      -H "X-API-Key: adarss_u7Eo87kauPbKpBQ3utARw9ry64O9xiD2stMb4nlXiu4" \
+#      -H "Content-Type: application/json" \
+#      -d '{"job_title": "AI Engineering", "skill": "OpenAI SDK"}'
+
+
+# curl -X POST "http://localhost:8000/advice" \
+#      -H "X-API-Key: adarss_u7Eo87kauPbKpBQ3utARw9ry64O9xiD2stMb4nlXiu4" \
+#      -H "Content-Type: application/json" \
+#      -d '{"history":"5 years Python, Django, REST APIs, SQL databases, AWS","target_skill":"Kubernetes"}'

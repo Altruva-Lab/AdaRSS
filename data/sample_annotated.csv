@@ -1,0 +1,877 @@
+job_title,skill,label,justification
+Physical Therapist,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Paralegal,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Physician,Selenium IDE,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+HR Manager,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Paralegal,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Adobe Photoshop specific filters,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+UI/UX Designer,Serverless computing,1,Rapidly gaining adoption; a key emerging skill in the market.
+Business Analyst,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Digital Marketing Specialist,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Electrician,Reinforcement Learning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Teacher,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Professor,TikTok trends management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Data Scientist,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Backend Developer,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Professor,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Flutter,1,Rapidly gaining adoption; a key emerging skill in the market.
+Backend Developer,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,Caffe,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Registered Nurse,USCIS specific forms (I-129),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Electrician,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+DevOps Engineer,Selenium IDE,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Security Analyst,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Medical Coder,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+HR Manager,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Physician,MLOps practices,1,Rapidly gaining adoption; a key emerging skill in the market.
+DevOps Engineer,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,People analytics (Python/Tableau),1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Teacher,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Electrician,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Recruiter,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+Registered Nurse,Django REST Framework,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Paralegal,Adobe Photoshop,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,RF scanner inventory management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Graphic Designer,USCIS specific forms (I-129),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Digital Marketing Specialist,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Adobe Photoshop specific filters,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Lawyer,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Professor,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Scientist,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Backend Developer,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+Construction Manager,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Art Director,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,SQL,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,E-discovery software (Relativity),1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+Security Analyst,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Adobe Photoshop,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physician,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Physician,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Lawyer,E-discovery software (Relativity),1,Rapidly gaining adoption; a key emerging skill in the market.
+Machine Learning Engineer,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Financial Analyst,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,Data normalization,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Animator,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,MLOps practices,1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Vector databases,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Machine Learning Engineer,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,RF scanner inventory management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Physician,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Animator,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,USCIS specific forms (I-129),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Full Stack Developer,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+Physician,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Apache Pig,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Systems Administrator,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,JUnit 4 annotations,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Teacher,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+HR Manager,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,SQL,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Physician,Caffe,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Frontend Developer,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+Supply Chain Manager,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+Radiology Technician,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Marketing Manager,SQL,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+Medical Coder,Flutter,1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Apache Airflow,1,Rapidly gaining adoption; a key emerging skill in the market.
+Animator,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,SQL,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Full Stack Developer,REST API design,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Professor,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Financial Analyst,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Art Director,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Business Analyst,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,LinkedIn Recruiter platform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Electrician,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,Vue.js 3 Composition API,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Animator,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,REST API design,0,Foundational skill that has persisted for decades across industries.
+Accountant,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Accountant,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+Animator,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Art Director,Kubernetes,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Flutter,1,Rapidly gaining adoption; a key emerging skill in the market.
+Professor,TypeScript,1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Accountant,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Physician,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,Kubernetes,1,Rapidly gaining adoption; a key emerging skill in the market.
+Medical Coder,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Professor,Adobe Photoshop,1,Rapidly gaining adoption; a key emerging skill in the market.
+Radiology Technician,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,SQL,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Logistics Coordinator,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+Electrician,TypeScript,1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Data ethics,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Cordova/PhoneGap,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+QA Engineer,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Lawyer,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,SQL,0,Foundational skill that has persisted for decades across industries.
+Electrician,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Plumber,Serverless computing,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Professor,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,Data Structures,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+AI Researcher,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Marketing Manager,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Professor,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Supply Chain Manager,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,BIM (Building Information Modeling),1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Machine Learning Engineer,Adobe Photoshop,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Frontend Developer,Vector databases,1,Rapidly gaining adoption; a key emerging skill in the market.
+Lawyer,BIM (Building Information Modeling),1,Rapidly gaining adoption; a key emerging skill in the market.
+Financial Analyst,TikTok trends management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Data Engineer,Data Structures,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,Vector databases,1,Rapidly gaining adoption; a key emerging skill in the market.
+Frontend Developer,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+Financial Analyst,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Reinforcement Learning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Business Analyst,REST API design,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+DevOps Engineer,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Systems Administrator,TikTok trends management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Full Stack Developer,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Vue.js 3 Composition API,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Paralegal,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Machine Learning Engineer,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,People analytics (Python/Tableau),1,Rapidly gaining adoption; a key emerging skill in the market.
+QA Engineer,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Accountant,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Physician,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Recruiter,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Recruiter,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Machine Learning Engineer,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Recruiter,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Medical Coder,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Caffe,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Teacher,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Art Director,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Registered Nurse,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Plumber,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Teacher,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Digital Marketing Specialist,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Accountant,After Effects expressions,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Physician,Performance testing (JMeter),1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Art Director,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,TypeScript,1,Rapidly gaining adoption; a key emerging skill in the market.
+Security Analyst,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,JUnit 4 annotations,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Radiology Technician,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Electrician,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,Reinforcement Learning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Scientist,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,REST API design,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,LinkedIn Recruiter platform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physician,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Financial Analyst,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Adobe Photoshop,1,Rapidly gaining adoption; a key emerging skill in the market.
+Radiology Technician,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Teacher,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Art Director,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Plumber,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Selenium IDE,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Healthcare Administrator,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Performance testing (JMeter),1,Rapidly gaining adoption; a key emerging skill in the market.
+Professor,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Django REST Framework,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,TypeScript,1,Rapidly gaining adoption; a key emerging skill in the market.
+Construction Manager,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Electrician,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,SQL,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,REST API design,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,JUnit 4 annotations,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Software Engineer,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Supply Chain Manager,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Art Director,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Physician,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Teacher,JUnit 4 annotations,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Investment Banker,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Teacher,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Machine Learning Engineer,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,Cryptocurrency portfolio strategies,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Plumber,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Physician,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Logistics Coordinator,REST API design,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Digital Marketing Specialist,After Effects expressions,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Software Engineer,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Professor,Selenium IDE,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Construction Manager,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+Accountant,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Digital Marketing Specialist,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Teacher,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,LinkedIn Recruiter platform,1,Rapidly gaining adoption; a key emerging skill in the market.
+DevOps Engineer,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+Medical Coder,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Professor,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Art Director,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Lawyer,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Vue.js 3 Composition API,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Plumber,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Radiology Technician,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Animator,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Engineer,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+Frontend Developer,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Plumber,JUnit 4 annotations,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Graphic Designer,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,REST API design,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Professor,System design patterns,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Vue.js 3 Composition API,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+HVAC Technician,Figma,1,Rapidly gaining adoption; a key emerging skill in the market.
+Registered Nurse,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+Art Director,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Business Analyst,Caffe,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Investment Banker,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Art Director,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,USCIS specific forms (I-129),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Systems Administrator,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+Backend Developer,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Data Scientist,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Accountant,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Recruiter,SQL,0,Foundational skill that has persisted for decades across industries.
+Paralegal,E-discovery software (Relativity),1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Art Director,Chef,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Financial Analyst,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Animator,REST API design,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Apache Pig,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Radiology Technician,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Electrician,Expo (React Native),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Supply Chain Manager,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,Cordova/PhoneGap,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Radiology Technician,Old JUnit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Supply Chain Manager,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Accountant,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Security Analyst,USCIS specific forms (I-129),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Backend Developer,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Paralegal,Apache Pig,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+QA Engineer,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Animator,Data Structures,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Linux administration,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Machine Learning Engineer,SvelteKit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Medical Coder,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Physician,RF scanner inventory management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+QA Engineer,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,After Effects expressions,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Physical Therapist,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Puppet (legacy),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Paralegal,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+DevOps Engineer,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Accountant,RF scanner inventory management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+HVAC Technician,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Art Director,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Professor,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Art Director,SQL,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,People analytics (Python/Tableau),1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,Reinforcement Learning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Paralegal,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Vector databases,1,Rapidly gaining adoption; a key emerging skill in the market.
+Animator,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Animator,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Paralegal,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Electrician,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Plumber,USCIS specific forms (I-129),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Construction Manager,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Selenium IDE,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+DevOps Engineer,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Animator,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+HR Manager,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Teacher,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,Vue.js 3 Composition API,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Professor,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,SQL,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Professor,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Physician,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Accountant,Puppet (legacy),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Animator,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+HR Manager,Apache Pig,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Marketing Manager,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Security Analyst,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Construction Manager,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Old JUnit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Business Analyst,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Physician,Incoterms,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Full Stack Developer,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Registered Nurse,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Art Director,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+QA Engineer,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Software Engineer,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,E-discovery software (Relativity),1,Rapidly gaining adoption; a key emerging skill in the market.
+Business Analyst,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Electrician,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Physician,QuickBooks Online,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+QA Engineer,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Physician,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Electrician,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Recruiter,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,Cordova/PhoneGap,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Supply Chain Manager,After Effects expressions,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Sales Manager,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Adobe Photoshop specific filters,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+DevOps Engineer,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Plumber,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Registered Nurse,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,BIM (Building Information Modeling),1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,Expo (React Native),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Security Analyst,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,Flutter,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Recruiter,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Digital Marketing Specialist,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+Teacher,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Warehouse Operator,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Recruiter,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,Adobe Photoshop specific filters,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,Cryptocurrency portfolio strategies,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Radiology Technician,E-discovery software (Relativity),1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,ICD-10 coding,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Graphic Designer,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Old JUnit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+SEO Specialist,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Supply Chain Manager,MLOps practices,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+HR Manager,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Selenium IDE,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Logistics Coordinator,Caffe,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+DevOps Engineer,Expo (React Native),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,RF scanner inventory management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Frontend Developer,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Digital Marketing Specialist,BIM (Building Information Modeling),1,Rapidly gaining adoption; a key emerging skill in the market.
+Art Director,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+Electrician,Old JUnit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Logistics Coordinator,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Lawyer,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Digital Marketing Specialist,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Paralegal,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Professor,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Electrician,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Teacher,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Sales Manager,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Systems Administrator,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Physician,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Accountant,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Animator,Kubernetes,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,Reinforcement Learning,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+Recruiter,Kubernetes,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Scientist,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Physician,Apache Airflow,1,Rapidly gaining adoption; a key emerging skill in the market.
+Art Director,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Animator,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+HVAC Technician,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Keyword research,0,Foundational skill that has persisted for decades across industries.
+Electrician,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Marketing Manager,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,MLOps practices,1,Rapidly gaining adoption; a key emerging skill in the market.
+Accountant,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Art Director,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Electrician,Performance testing (JMeter),1,Rapidly gaining adoption; a key emerging skill in the market.
+Machine Learning Engineer,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+QA Engineer,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Scientist,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+QA Engineer,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Supply Chain Manager,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Paralegal,LoRA fine-tuning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Financial Analyst,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Reinforcement Learning,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Automated picking robots (control),1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+Full Stack Developer,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Accountant,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Engineer,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Engineer,Microservices architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+UI/UX Designer,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,MLOps practices,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+Paralegal,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Teacher,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Frontend Developer,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Recruiter,Adobe Photoshop,1,Rapidly gaining adoption; a key emerging skill in the market.
+Accountant,REST API design,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Cryptocurrency portfolio strategies,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Art Director,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,People analytics (Python/Tableau),1,Rapidly gaining adoption; a key emerging skill in the market.
+Systems Administrator,Old JUnit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Recruiter,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Financial Analyst,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Data Scientist,Swift,1,Rapidly gaining adoption; a key emerging skill in the market.
+Paralegal,Apache Spark,1,Rapidly gaining adoption; a key emerging skill in the market.
+Marketing Manager,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,SQL,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Accountant,GDPR regulations,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+Sales Manager,Google Analytics 4,1,Rapidly gaining adoption; a key emerging skill in the market.
+Marketing Manager,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Flutter,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Apache Pig,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Medical Coder,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Teacher,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,Serverless computing,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Scientist,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Lawyer,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Paralegal,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,Kubernetes,1,Rapidly gaining adoption; a key emerging skill in the market.
+Registered Nurse,Data normalization,0,Foundational skill that has persisted for decades across industries.
+AI Researcher,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+Logistics Coordinator,Cypress,1,Rapidly gaining adoption; a key emerging skill in the market.
+Cloud Architect,Statistical reasoning,0,Foundational skill that has persisted for decades across industries.
+Plumber,GAAP principles,0,Foundational skill that has persisted for decades across industries.
+Healthcare Administrator,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,WordPress page builders (Elementor),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Physician,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Art Director,REST API design,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,SvelteKit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+QA Engineer,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Software Engineer,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Recruiter,REST API design,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,Excel financial modeling,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+QA Engineer,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Cloud Architect,Amazon FBA specific rules,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Professor,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+Art Director,Cordova/PhoneGap,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,GraphQL,1,Rapidly gaining adoption; a key emerging skill in the market.
+Warehouse Operator,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,TypeScript,1,Rapidly gaining adoption; a key emerging skill in the market.
+DevOps Engineer,TypeScript,1,Rapidly gaining adoption; a key emerging skill in the market.
+Machine Learning Engineer,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Teacher,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+UI/UX Designer,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,LinkedIn Recruiter platform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Healthcare Administrator,CI/CD pipelines,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Data lake architecture,1,Rapidly gaining adoption; a key emerging skill in the market.
+Physical Therapist,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Full Stack Developer,Model evaluation metrics,0,Foundational skill that has persisted for decades across industries.
+Construction Manager,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Investment Banker,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Adobe Photoshop specific filters,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Systems Administrator,Brand Positioning,0,Foundational skill that has persisted for decades across industries.
+HR Manager,PyTorch,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Cryptocurrency portfolio strategies,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Compliance Officer,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+AI Researcher,Westlaw legal database,1,Rapidly gaining adoption; a key emerging skill in the market.
+Data Engineer,After Effects expressions,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Cloud Architect,Patient triage protocols,0,Foundational skill that has persisted for decades across industries.
+Plumber,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Professor,ABC analysis,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,Cordova/PhoneGap,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Business Analyst,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Accountant,Linux administration,0,Foundational skill that has persisted for decades across industries.
+Backend Developer,Serverless computing,1,Rapidly gaining adoption; a key emerging skill in the market.
+SEO Specialist,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+DevOps Engineer,Lean Six Sigma,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Investment Banker,E-discovery software (Relativity),1,Rapidly gaining adoption; a key emerging skill in the market.
+Lawyer,After Effects expressions,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Digital Marketing Specialist,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Marketing Manager,Gradient descent,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Employee relations law,0,Foundational skill that has persisted for decades across industries.
+HVAC Technician,Telemedicine platforms (Doxy.me),2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+DevOps Engineer,Encryption basics,0,Foundational skill that has persisted for decades across industries.
+Financial Analyst,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Color theory and composition,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+Security Analyst,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Plumber,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Plumber,React hooks,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Paralegal,Contract law fundamentals,0,Foundational skill that has persisted for decades across industries.
+Medical Coder,TikTok trends management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Backend Developer,Epic Systems (EMR),1,Rapidly gaining adoption; a key emerging skill in the market.
+HR Manager,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Software Engineer,Incoterms,0,Foundational skill that has persisted for decades across industries.
+Graphic Designer,Object-Oriented Programming,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+Electrician,Docker,1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Frontend Developer,Flutter,1,Rapidly gaining adoption; a key emerging skill in the market.
+Construction Manager,Test automation principles,0,Foundational skill that has persisted for decades across industries.
+Radiology Technician,Pipe fitting and soldering,0,Foundational skill that has persisted for decades across industries.
+HR Manager,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Business Analyst,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Data Engineer,DEI frameworks,1,Rapidly gaining adoption; a key emerging skill in the market.
+Teacher,Network security fundamentals,0,Foundational skill that has persisted for decades across industries.
+Machine Learning Engineer,RF scanner inventory management,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+HR Manager,Next.js App Router,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Logistics Coordinator,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Data Scientist,Route optimization software,1,Rapidly gaining adoption; a key emerging skill in the market.
+QA Engineer,Apache Pig,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+QA Engineer,Data normalization,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Art Director,Old JUnit,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Paralegal,KNIME specific nodes,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Business Analyst,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+SEO Specialist,JUnit 4 annotations,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Graphic Designer,Data ethics,0,Foundational skill that has persisted for decades across industries.
+UI/UX Designer,Adobe Photoshop specific filters,2,Framework or tool‑specific; volatile and likely to be replaced within a few years.
+Frontend Developer,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Logistics Coordinator,Service Mesh (Istio),1,Rapidly gaining adoption; a key emerging skill in the market.
+QA Engineer,National Electrical Code,0,Foundational skill that has persisted for decades across industries.
+Physical Therapist,Serverless computing,1,Rapidly gaining adoption; a key emerging skill in the market.
+Plumber,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Animator,System design patterns,0,Foundational skill that has persisted for decades across industries.
+Security Analyst,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Supply Chain Manager,Data Structures,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Salesforce CRM,1,Rapidly gaining adoption; a key emerging skill in the market.
+Backend Developer,Smart thermostat installation,1,Rapidly gaining adoption; a key emerging skill in the market.
+Compliance Officer,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Art Director,Interstate trucking regulations,0,Foundational skill that has persisted for decades across industries.
+Teacher,Agile methodologies,0,Foundational skill that has persisted for decades across industries.
+Lawyer,Terraform,1,Rapidly gaining adoption; a key emerging skill in the market.
+HVAC Technician,Data ethics,0,Foundational skill that has persisted for decades across industries.
+Digital Marketing Specialist,HTTP/HTTPS protocols,0,Foundational skill that has persisted for decades across industries.
+Compliance Officer,Zero Trust architecture,1,Rapidly gaining adoption; a key emerging skill in the market.

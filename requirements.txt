@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+joblib
+jupyter
+numpy
+fastapi
+uvicorn
+pydantic
+python-multipart
+torch # --index-url https://download.pytorch.org/whl/cpu # only run through cli, if you have issues installing torch
+transformers 
+accelerate
+sentence-transformers
+sqlalchemy
+python-jose[cryptography] 
+passlib[bcrypt]

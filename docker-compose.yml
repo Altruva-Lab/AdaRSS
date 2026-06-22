@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  adarss-api:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - RATE_LIMIT=100
+    volumes:
+      - ./api/database/adarss.db:/app/api/database/adarss.db  # persist DB
+    restart: unless-stopped
