@@ -242,7 +242,7 @@ async def classify(
     current_user: User = Depends(get_current_user),
     db: AsyncSession = Depends(get_db)
 ):
-    await check_and_increment_usage(current_user, db, "/classify")
+    await check_and_increment_usage(current_user, db)
     text = f"{req.job_title}: {req.skill}"
     _, classification = classify_skill_text(text)
     pred, _ = classify_skill_text(text)
@@ -254,7 +254,7 @@ async def advice(
     current_user: User = Depends(get_current_user),
     db: AsyncSession = Depends(get_db)
 ):
-    await check_and_increment_usage(current_user, db, "/advice")
+    await check_and_increment_usage(current_user, db)
     result = generate_advice(req.history, req.target_skill)
     return {
         "classification": result["durability"],

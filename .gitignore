@@ -136,3 +136,42 @@ adarss-model/
 
 
 *notes*
+
+
+# Large model files
+*.pkl
+*.joblib
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.h5
+*.onnx
+*.pb
+api/model/adarss-distilbert/
+!api/model/adarss-distilbert/*.json  # except configs
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs & results
+logs/
+results/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Environment
+.env
+
+# Frontend
+adarss-ui/node_modules/
+adarss-ui/dist/
+adarss-ui/.pnpm-store/
+
+# OS
+.DS_Store
+Thumbs.db

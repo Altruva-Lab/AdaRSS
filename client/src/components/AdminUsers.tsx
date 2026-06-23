@@ -113,7 +113,7 @@ const AdminDashboard: React.FC = () => {
     <div>
       <Navbar />
       <div className="container dashboard">
-        <h1>Admin Dashboard</h1>
+        <h1>Admin Dashboard - Users</h1>
         <p>Manage clients, plans, and API access.</p>
 
         <div className="card">
