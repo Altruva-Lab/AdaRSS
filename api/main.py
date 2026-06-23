@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select, func
 from .database import init_db, get_db, User, APIKey, UsageLog, Plan, AsyncSessionLocal
-from .dependencies import get_current_user, verify_api_key, get_current_admin_user
+from .dependencies import get_current_user, verify_api_key, get_current_admin_user, check_and_increment_usage
 from .models import (
     ClassifyRequest, ClassifyResponse,
     AdviceRequest, AdviceResponse,
@@ -239,8 +239,10 @@ async def change_plan(
 @app.post("/classify", response_model=ClassifyResponse)
 async def classify(
     req: ClassifyRequest,
-    current_user: User = Depends(get_current_user)
+    current_user: User = Depends(get_current_user),
+    db: AsyncSession = Depends(get_db)
 ):
+    await check_and_increment_usage(current_user, db, "/classify")
     text = f"{req.job_title}: {req.skill}"
     _, classification = classify_skill_text(text)
     pred, _ = classify_skill_text(text)
@@ -249,8 +251,10 @@ async def classify(
 @app.post("/advice", response_model=AdviceResponse)
 async def advice(
     req: AdviceRequest,
-    current_user: User = Depends(get_current_user)
+    current_user: User = Depends(get_current_user),
+    db: AsyncSession = Depends(get_db)
 ):
+    await check_and_increment_usage(current_user, db, "/advice")
     result = generate_advice(req.history, req.target_skill)
     return {
         "classification": result["durability"],

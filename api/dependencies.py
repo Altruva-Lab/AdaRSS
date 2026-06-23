@@ -83,6 +83,8 @@ async def verify_api_key(request: Request, db: AsyncSession = Depends(get_db)):
     
     return api_key
 
+
+
 async def get_current_admin_user(
     current_user: User = Depends(get_current_user)
 ):
@@ -92,3 +94,25 @@ async def get_current_admin_user(
             detail="Admin privileges required"
         )
     return current_user
+
+async def check_and_increment_usage(user: User, db: AsyncSession):
+    """Check if user has remaining quota and increment usage."""
+    current_month = int(datetime.now().strftime("%Y%m"))
+    if user.last_reset_month != current_month:
+        user.monthly_usage = 0
+        user.last_reset_month = current_month
+        await db.commit()
+
+    if user.plan_id is None:
+        raise HTTPException(403, "No active plan")
+
+    plan_result = await db.execute(select(Plan).where(Plan.id == user.plan_id))
+    plan = plan_result.scalar_one_or_none()
+    if not plan:
+        raise HTTPException(403, "Plan not found")
+
+    if user.monthly_usage >= plan.max_requests:
+        raise HTTPException(429, f"Monthly request limit exceeded ({plan.max_requests} requests)")
+
+    user.monthly_usage += 1
+    await db.commit()
