@@ -2,6 +2,7 @@
 # AdaRSS: Adaptive Representation Systems for Structured Skilled Data
 
 > *"End skill instability. Build careers that last."*
+AdaRSS is building the world's first Career Stability Intelligence Layer that helps individuals, institutions, and governments identify which skills create durable careers in a rapidly changing economy.
 
 ---
 
